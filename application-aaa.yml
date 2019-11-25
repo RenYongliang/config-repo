@@ -1,2 +1,5 @@
-server.port=8892
-spring.application.name=starlink-res
+server: 
+  port: 8892
+spring: 
+  application: 
+    name: starlink-res
