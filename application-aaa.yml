@@ -1,1 +1,2 @@
-saaaaaaaaaaa
+server.port=8892
+spring.application.name=starlink-res
